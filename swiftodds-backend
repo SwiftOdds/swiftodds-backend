@@ -1,0 +1,17 @@
+swiftodds-backend/
+├── src/
+│   ├── auth/
+│   │   ├── auth.controller.ts
+│   │   ├── auth.service.ts
+│   │   └── auth.module.ts
+│   ├── users/
+│   ├── wallet/
+│   ├── bets/
+│   ├── websocket/
+│   ├── app.module.ts
+│   └── main.ts
+├── prisma/
+│   └── schema.prisma
+├── package.json
+├── tsconfig.json
+└── Dockerfile
